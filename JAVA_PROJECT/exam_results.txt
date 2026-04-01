@@ -1,0 +1,50 @@
+========================================
+Date: 31-03-2026 17:09:24
+Student: om
+Enrollment: 12402080601098
+Exam: Java Basics
+Score: 0 / 5
+Percentage: 0.0%
+Grade: F
+========================================
+
+========================================
+Date: 31-03-2026 17:20:03
+Student: vinod1
+Enrollment: 23456
+Exam: Python Basics
+Score: 0 / 5
+Percentage: 0.0%
+Grade: F
+========================================
+
+========================================
+Date: 31-03-2026 18:16:15
+Student: om
+Enrollment: 12402080601098
+Exam: Java Basics
+Score: 1 / 5
+Percentage: 20.0%
+Grade: F
+========================================
+
+========================================
+Date: 01-04-2026 08:31:49
+Student: om
+Enrollment: 12402080601098
+Exam: Java Basics
+Score: 2 / 5
+Percentage: 40.0%
+Grade: F
+========================================
+
+========================================
+Date: 01-04-2026 11:39:36
+Student: Nidhi
+Enrollment: 093
+Exam: Java Basics
+Score: 3 / 5
+Percentage: 60.0%
+Grade: C
+========================================
+
